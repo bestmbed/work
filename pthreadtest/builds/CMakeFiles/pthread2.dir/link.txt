@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=gnu++11 -fms-extensions -Wl,--no-as-needed   -lm CMakeFiles/pthread2.dir/pthread2.cpp.o  -o pthread2 -lpthread 

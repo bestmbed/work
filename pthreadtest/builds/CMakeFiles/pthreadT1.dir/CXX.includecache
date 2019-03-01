@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bmbed/Documents/work spade/pthreadtest/pthreadT1.cpp
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+

@@ -1,0 +1,4 @@
+/home/bmbed/Documents/work spade/pthreadtest/builds/CMakeFiles/edit_cache.dir
+/home/bmbed/Documents/work spade/pthreadtest/builds/CMakeFiles/rebuild_cache.dir
+/home/bmbed/Documents/work spade/pthreadtest/builds/CMakeFiles/pthread2.dir
+/home/bmbed/Documents/work spade/pthreadtest/builds/CMakeFiles/pthreadT1.dir
