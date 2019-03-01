@@ -1,0 +1,3 @@
+/home/bmbed/Documents/work spade/Protocol2/build/CMakeFiles/edit_cache.dir
+/home/bmbed/Documents/work spade/Protocol2/build/CMakeFiles/rebuild_cache.dir
+/home/bmbed/Documents/work spade/Protocol2/build/CMakeFiles/masi_main.dir

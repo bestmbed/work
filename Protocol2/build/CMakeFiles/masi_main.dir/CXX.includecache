@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bmbed/Documents/work spade/Protocol2/src/masi_main.cpp
+masi_uart.h
+/home/bmbed/Documents/work spade/Protocol2/src/masi_uart.h
+masi_proto2.h
+/home/bmbed/Documents/work spade/Protocol2/src/masi_proto2.h
+iostream
+-
+pthread.h
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+string.h
+-
+
+/home/bmbed/Documents/work spade/Protocol2/src/masi_proto2.cpp
+iostream
+-
+masi_proto2.h
+/home/bmbed/Documents/work spade/Protocol2/src/masi_proto2.h
+masi_uart.h
+/home/bmbed/Documents/work spade/Protocol2/src/masi_uart.h
+string
+-
+boost/array.hpp
+-
+
+/home/bmbed/Documents/work spade/Protocol2/src/masi_proto2.h
+iostream
+-
+string
+-
+boost/array.hpp
+-
+
+/home/bmbed/Documents/work spade/Protocol2/src/masi_uart.cpp
+masi_uart.h
+/home/bmbed/Documents/work spade/Protocol2/src/masi_uart.h
+sstream
+-
+sys/types.h
+-
+sys/stat.h
+-
+termios.h
+-
+fcntl.h
+-
+stdlib.h
+-
+stdio.h
+-
+strings.h
+-
+string.h
+-
+unistd.h
+-
+iostream
+-
+sys/queue.h
+-
+
+/home/bmbed/Documents/work spade/Protocol2/src/masi_uart.h
+sstream
+-
+sys/types.h
+-
+sys/stat.h
+-
+termios.h
+-
+fcntl.h
+-
+stdlib.h
+-
+stdio.h
+-
+strings.h
+-
+string.h
+-
+unistd.h
+-
+iostream
+-
+sys/queue.h
+-
+

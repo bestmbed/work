@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=gnu++11 -fms-extensions -Wl,--no-as-needed   -lm CMakeFiles/masi_main.dir/src/masi_main.cpp.o CMakeFiles/masi_main.dir/src/masi_uart.cpp.o CMakeFiles/masi_main.dir/src/masi_proto2.cpp.o  -o masi_main -lpthread 

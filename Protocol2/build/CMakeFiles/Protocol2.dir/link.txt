@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libProtocol2.so -o libProtocol2.so CMakeFiles/Protocol2.dir/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp.o CMakeFiles/Protocol2.dir/src/masi_main.cpp.o CMakeFiles/Protocol2.dir/src/masi_uart.cpp.o CMakeFiles/Protocol2.dir/src/masi_proto2.cpp.o 

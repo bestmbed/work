@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmasi_main1.a  CMakeFiles/masi_main1.dir/src/masi_main.cpp.o CMakeFiles/masi_main1.dir/src/masi_uart.cpp.o CMakeFiles/masi_main1.dir/src/masi_proto2.cpp.o
+/usr/bin/ranlib libmasi_main1.a
